@@ -12,3 +12,4 @@ and a good night's sleep consists of
 sleep cycle, you will feel groggy 
 even if you've completed several 
 cycles prior to waking up.
+The SleepTime App is made using basic HTML, CSS, and JavaScript.
